@@ -2,13 +2,23 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 70%
   &-2
+    animation: float1 2.5s ease-in-out infinite alternate
+    position: absolute
+    top: 19%
+    right: 14%
+  &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 62%
+    right: 59%
+  &-4
+    animation: float1 3.8s ease-in-out infinite alternate
+    position: absolute
+    top: 53%
+    right: 18%        
 
 
 @keyframes float1
@@ -17,3 +27,194 @@
 
   100%
     transform: translateY(0px)
+
+.boton *, .boton--sm * 
+  color: #f3f9ff !important  
+
+.bg1
+  background-image: url('../assets/curso/temas/background-top.png')    
+  background-repeat: no-repeat
+  border-radius: 10px !important         
+
+.bg2
+  background-image: url('../assets/curso/temas/background-footer.png')    
+  background-repeat: no-repeat
+  background-size: 100% 100%
+  background-position: center 
+  border-radius: 10px !important 
+@media (max-width:500px)  
+    .bg2
+      background-image: url('')
+
+.bg3
+    background-image: url('../assets/curso/temas/img1.png');
+    background-repeat: no-repeat
+    background-size: 2.5rem   
+
+.bg4
+    background-image: url('../assets/curso/temas/img2.png');
+    background-repeat: no-repeat
+    background-size: 0.5rem 
+    height: 2rem !important         
+
+
+.bg5
+  background-image: url('../assets/curso/temas/tema5/bg-slider.png')    
+  background-repeat: no-repeat
+  background-size: 100% 100%
+  background-position: center   
+@media (max-width:500px)  
+  .bg2
+    background-image: url('')  
+
+.m-top-img
+ margin-top: 67px !important; 
+
+.ml.text-figuras
+  font-size: small !important
+  padding-left: 2rem !important
+
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #FEE4F0 
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+
+.tarjeta-nota-img
+  background-color: #FEF2E4 !important
+  border-bottom-right-radius: 30px  !important
+
+.tarjeta-radius 
+  border-bottom-right-radius: 30px  !important
+
+.tarjeta-radius-all 
+  border-radius: 30px  !important 
+  width: 271PX !important
+  height: 258px !important
+
+.header-table
+  background-color: #ACE1E7 !important  
+
+.cajon-second-color  
+  background-color: #FEF2E4 !important   
+
+.cajon:before 
+  height: 100% !important
+
+.tarjeta-second-color  
+  background-color: #FFFFFF !important  
+
+
+.mg-img
+   margin: -48px !important 
+
+@media (max-width:500px)   
+    .mg-img
+      margin: -0px !important  
+
+.mg-img-final
+   padding-bottom: 148px !important
+   padding-top: 52px !important
+
+@media (max-width:500px)   
+  .mg-img-final
+      margin: -0px !important                
+      padding-top: 0px !important 
+
+.mg-img-final-tema6
+   margin: -64px !important 
+
+@media (max-width:500px)   
+  .mg-img-final-tema6
+    margin: -0px !important         
+
+.color-tarjeta-descargas
+  background-image: linear-gradient(180deg, #206897, #07A5B6) !important
+
+.color-slider
+  background-color: #E3F5F7 !important  
+
+.color-borde-slider
+  border: solid 4px #206897 !important   
+  
+.tabs-a__tab    
+  background-color: #FEEBF4 !important  
+
+
+.tabs-a__tab.tabs-a__tab__selected  
+  background-color: #F40B74 !important  
+
+.bloque-ancho
+  width: 74% !important  
+
+
+
+.tarjeta.tarjeta-acordeon-gris.acordion__activo      
+  background-color: #E3F5F7 !important
+  border-color:  #206897 !important 
+
+.tarjeta-acordeon-gris
+    background-color: #FEF2E4  !important 
+    border-color:  #FEF2E4 !important
+
+.tarjeta-rosa
+  background-color: #FEE4F0 !important
+
+
+.bloque-img-left 
+  left: 50% !important
+
+@media (max-width:500px)  
+  .bloque-img-left  
+    left: 0% !important 
+
+
+.bloque-text-rigth
+   right: 39% !important 
+@media (max-width:500px)  
+  .bloque-text-rigth  
+    right: 0% !important  
+
+.bloque-texto-b.color-primario:before
+   background-color: #FEF2E4 !important 
+
+
+.texto-cajon-b
+  margin-left: 3rem !important  
+  
+.color-tarjeta-avatar
+  background-color: #E0EAF1 !important 
+
+.color-tarjeta-avatar:hover
+  background-color: #FEF2E4 !important  
+
+.h-tarjeta-avatar
+  height: 28rem !important 
+
+.h-tarjeta-avatar-gris
+  height: 30rem !important     
+
+.color-tarjeta-avatar-gris
+  background-color: #E0EAF1 !important  
+
+.b-bottom 
+  border-bottom: 1px solid #12263F;  
