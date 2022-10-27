@@ -97,7 +97,7 @@
     
       .row.justify-content-center
         .col-lg-12
-          PasosA.color-acento-contenido.mb-5(tipo="l")
+          PasosA.color-acento-contenido.mb-5(tipo="n")
             .row
               .col-lg
                 h3 Diagrama de Pareto
@@ -138,12 +138,12 @@
                 figure(data-aos="zoom-in")
                   img(src='@/assets/curso/temas/tema6/img10.png', alt='').img125   
 
-      .row.justify-content-center.bg2.mg-img.mg-img-final-tema6.mt-5
-        .row.justify-content-center.mb5 
-          .col-md-10.mb-5  
-            .cajon.tarjeta-radius.color-acento-contenido.cajon-second-color.p-3
-              .row.justify-content-center.p-4                
-                p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados. 
+     
+          .row.justify-content-center.mb5.mt-5 
+            .col-md-12.mb-5  
+              .cajon.tarjeta-radius.color-acento-contenido.cajon-second-color.p-3
+                .row.justify-content-center.p-4                
+                  p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados. 
 
 
 

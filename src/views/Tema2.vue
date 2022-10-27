@@ -206,7 +206,7 @@
 
     .row.justify-content-center 
         .col-md-8.mb-5 
-          p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 5.]  Tipos de organigramas
+          p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 6.]  Tipos de organigramas
           figure 
             img(src='@/assets/curso/temas/tema2/img11.png', alt='alt')
           .cajon.tarjeta-nota-img.mb-5

@@ -66,6 +66,8 @@
         figure
           img(src="@/assets/curso/temas/tema1/img6.png", alt="alt") 
 
+    p.mt-5.mb-5 Con estos fundamentos, es preciso mencionar que, para poner en marcha una empresa, necesariamente se requiere acudir a la administración, realizar un proceso de diseño y proyección que sirve de fundamento para la estructuración de la empresa, donde todo lo anterior se cohesiona para darle vida a la actividad empresarial y, posteriormente, controlar y evaluar los resultados.      
+
     .row.align-items-end.bg3.h4.p-3 Proceso administrativo
 
     p.mt-4.mb-5 Es un proceso sistémico e integral donde la administración se implementa a través de dos fases: mecánica y dinámica. La primera fase establece los fundamentos para su implementación y la segunda fase pone en marcha y, a prueba, todo lo definido en la primera.
@@ -73,7 +75,7 @@
       .col-md-11  
         .cajon.tarjeta-radius.color-acento-contenido.cajon-second-color.p-3
           .row.justify-content-center.p-4                
-            p Mientras se propinen datos más dispersos, que puedan ser visualizados en herramientas gráficas, mayor es la inexactitud del conjunto de datos, y más complicado se hace encontrar una tendencia en el comportamiento de dicho conjunto. Se buscan entonces, datos “agrupados”.
+            p También cuenta con cuatro etapas: planificación, organización, dirección y control. Cada una cobra importancia en la medida en que la empresa inicia su estructuración para la operación o puesta en marcha de la idea de negocio o emprendimiento, a fin de garantizar el logro de los objetivos, mediante una ejecución dinámica y coordinada que lleve a la organización a su crecimiento, consolidación y permanencia en el mercado.
 
     p.mt-5.mb-5 A continuación, se podrá conocer más sobre las fases y etapas del proceso administrativo:
 

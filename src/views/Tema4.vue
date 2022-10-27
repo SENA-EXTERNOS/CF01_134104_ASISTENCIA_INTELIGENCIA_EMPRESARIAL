@@ -125,7 +125,7 @@
                     span Descargar
                     i.fas.fa-file-download 
 
-      p.mt-5.mb-5   En conclusión, la dirección estratégica es el arte y la ciencia de poner en práctica y desarrollar todos los potenciales de una empresa, con el fin de asegurar su supervivencia a largo plazo, y mejorar su competitividad, eficacia, eficiencia y productividad.                  
+      p.mt-5.mb-5   Para profundizar más sobre este tema, lo invitamos a descargar el documento #[span.text-bold “Planeación estratégica”] donde podrá conocer los componentes, el proceso y los modelos de la planeación estratégica.
 
       .row.justify-content-center 
         .col-md-10.mb-5  

@@ -89,7 +89,7 @@
             .col-md-5
                 figure
                   img(src='@/assets/curso/temas/tema5/img7.png' alt='')             
-        .tarjeta.color-borde-slider.color-slider.bg5.p-4(class="small-text" titulo="ETL (Extract, Transform, Load)")
+        .tarjeta.color-borde-slider.color-slider.bg5.p-4(class="small-text" titulo="ETL")
           .row.justify-content-center
             .col-md-7
               p Traducido (E: extraer, T: transformar y L: cargar). Es un tipo de integración de datos que define los procesos de extracción de datos para ser cargados a su almacenamiento. Como un sistema de información y de organización.
@@ -265,8 +265,8 @@
                 figure
                   img(src="@/assets/curso/temas/tema5/img26.png", alt="alt")
               .crd_hover_txt--body.text-center
-                h5.mb-3 Consumidor a empresa (C2B) 
-                p.mb-0 En esta modalidad, es el consumidor el que crea valor para un negocio, dando una referencia en línea, de la tienda, o también ofreciendo sus productos a empresas que se dedican a la comercialización de artículos de segunda mano.
+                h5.mb-3 Empresa a consumidor (B2C)  
+                p.mb-0 Este tipo de comercio minorista se produce cuando un consumidor compra un artículo por Internet, para su uso.
 
           .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
             .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
@@ -274,8 +274,8 @@
                 figure
                   img(src="@/assets/curso/temas/tema5/img27.png", alt="alt")
               .crd_hover_txt--body.text-center
-                h5.mb-3 Empresa a gobierno (B2G)
-                p.mb-0 Ocurre cuando las empresas privadas intercambian bienes o servicios con una entidad gubernamental.
+                h5.mb-3 Consumidor a empresa (C2B) 
+                p.mb-0 En esta modalidad, es el consumidor el que crea valor para un negocio, dando una referencia en línea, de la tienda, o también ofreciendo sus productos a empresas que se dedican a la comercialización de artículos de segunda mano.
 
           .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
             .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
@@ -283,14 +283,23 @@
                 figure
                   img(src="@/assets/curso/temas/tema5/img28.png", alt="alt")
               .crd_hover_txt--body.text-center
-                h5.mb-3 Consumidor a gobierno (C2G)
-                p.mb-0 Incluye todas las operaciones por las cuales los consumidores cumplen con responsabilidades gubernamentales, tales como el pago de impuestos, compra de activos del orden público, o pagos de multas, entre otros.
+                h5.mb-3 Empresa a gobierno (B2G) 
+                p.mb-0 Ocurre cuando las empresas privadas intercambian bienes o servicios con una entidad gubernamental.
 
           .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
             .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
               .crd_hover_txt--img
                 figure
                   img(src="@/assets/curso/temas/tema5/img29.png", alt="alt")
+              .crd_hover_txt--body.text-center
+                h5.mb-3 Consumidor a gobierno (C2G) 
+                p.mb-0 Incluye todas las operaciones por las cuales los consumidores cumplen con responsabilidades gubernamentales, tales como el pago de impuestos, compra de activos del orden público, o pagos de multas, entre otros.
+
+          .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+            .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
+              .crd_hover_txt--img
+                figure
+                  img(src="@/assets/curso/temas/tema5/img30.png", alt="alt")
               .crd_hover_txt--body.text-center
                 h5.mb-3 Tiendas online
                 p.mb-0 Tienen las mismas características de las tiendas físicas, pero adaptan sus servicios para el intercambio de artículos a distancia y medios de pago electrónico, o a través de plataformas recaudadoras.
@@ -299,7 +308,7 @@
             .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
               .crd_hover_txt--img
                 figure
-                  img(src="@/assets/curso/temas/tema5/img30.png", alt="alt")
+                  img(src="@/assets/curso/temas/tema5/img31.png", alt="alt")
               .crd_hover_txt--body.text-center
                 h5.mb-3 Afiliación
                 p.mb-0 En este tipo de comercio, el intercambio de los no bienes no se hace directamente con el productor; el negocio se hace a través de una plataforma que sirve de intermediario entre oferente y comprador y, a su vez, cobra una comisión por la transacción.
@@ -308,7 +317,7 @@
             .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
               .crd_hover_txt--img
                 figure
-                  img(src="@/assets/curso/temas/tema5/img31.png", alt="alt")
+                  img(src="@/assets/curso/temas/tema5/img32.png", alt="alt")
               .crd_hover_txt--body.text-center
                 h5.mb-3 #[i Marketplace]
                 p.mb-0 Es una gran plataforma que ofrece espacios en los que muchos vendedores pueden ofrecer sus productos o servicios y en las que los consumidores pueden consultar una gran variedad de estos.
@@ -317,19 +326,10 @@
             .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
               .crd_hover_txt--img
                 figure
-                  img(src="@/assets/curso/temas/tema5/img32.png", alt="alt")
+                  img(src="@/assets/curso/temas/tema5/img33.png", alt="alt")
               .crd_hover_txt--body.text-center
                 h5.mb-3 Suscripción
                 p.mb-0 Es un modelo de negocio con oferta de contenidos digitales, útil para adquirir bienes o servicios con frecuencia de compra recurrente; este modelo permite recibir ingresos por anticipado, así como programar las ventas de forma periódica.
-
-          .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
-            .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
-              .crd_hover_txt--img
-                figure
-                  img(src="@/assets/curso/temas/tema5/img33.png", alt="alt")
-              .crd_hover_txt--body.text-center
-                h5.mb-3 Rotación de los activos totales
-                p.mb-0 Mide la capacidad del activo de la empresa, para producir ventas. 
 
           .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
             .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")
