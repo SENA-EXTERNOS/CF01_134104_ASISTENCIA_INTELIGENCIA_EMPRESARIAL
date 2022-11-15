@@ -34,13 +34,12 @@
           .col-sm-5.mb-3.mt-5.m-top-img
             figure
               img(src="@/assets/curso/temas/tema5/img3.png", alt="alt")
-          .col-sm-7.mb-3
-            p.mt-5 El dinamismo de la innovación en diferentes áreas y en tecnología, especialmente, ha venido generando una constante evolución de las sociedades que obligan a las empresas a cerrar la brecha entre usuario y consumidor al máximo posible, y a dotarse de una robusta capacidad para dar respuestas concretas y prácticas en atención a los retos que traen los nuevos modelos económicos, generadores de riqueza, optimizando de esta manera, toda la actividad empresarial.
+          .col-sm-7.mb-3            
             .bloque-texto-b.color-primario.p-4
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
                 p.mb-0  La aplicación de la técnica de BI en la empresa, permite manejar, procesar y actualizar gran cantidad de datos, pudiendo ser capaz de relacionarse entre sí, extrayendo información útil con alto valor empresarial, con el fin de facilitar y optimizar la toma de decisiones dentro de la empresa a la misma velocidad que cambian los escenarios económicos. (p.10)                
-                p.mt-5.text-bold.texto-cajon-b Como afirma López (2018)
+                p.mt-5.text-bold  Como afirma López (2018)
                 i.fas.fa-quote-right
 
     <Separador></Separador>
@@ -97,7 +96,7 @@
               figure
                   img(src='@/assets/curso/temas/tema5/img8.png' alt='')                          
                   
-        .tarjeta.color-borde-slider.color-slider.bg5.p-4(titulo="Data Warehouse")
+        .tarjeta.color-borde-slider.color-slider.bg5.p-4(titulo="<i>Data Warehouse</i>")
           .row.justify-content-center
             .col-md-7
               p Es conocido con este nombre al contenedor o contenedores donde las empresas clasifican y acumulan información suministrada desde diferentes fuentes de datos.
@@ -105,7 +104,7 @@
                 figure
                     img(src='@/assets/curso/temas/tema5/img9.png' alt='')    
 
-        .tarjeta.color-borde-slider.color-slider.bg5.p-4(titulo="Data Marts")
+        .tarjeta.color-borde-slider.color-slider.bg5.p-4(titulo="<i>Data Marts</i>")
           .row.justify-content-center
             .col-md-7
               p Subconjunto de datos almacenados en contenedores pequeños clasificados para almacenar datos específicos de la organización.
@@ -206,7 +205,7 @@
               figure
                 img(src="@/assets/curso/temas/tema5/img22.png", alt="alt").img100
             .col.b-bottom         
-              p A través de un software de #[i Business Intelligence], se pueden generar informes gráficos muy fáciles de comprender, aún para personas sin conocimientos técnicos en el significado de las métricas.
+              p A través de un #[i software] de #[i Business Intelligence], se pueden generar informes gráficos muy fáciles de comprender, aún para personas sin conocimientos técnicos en el significado de las métricas.
 
     <Separador></Separador>
     #t_5_2.titulo-segundo.color-acento-contenido.mt-5
@@ -229,10 +228,10 @@
         .row(titulo="Concepto")
           p #[i E-commerce] se conoce como el conjunto de relaciones comerciales establecidas por varios individuos que buscan en esencia, ejecutar operaciones de compra, venta y distribuciones de bienes y servicios soportados en Internet.
 
-        div(titulo="E-commerce como estrategia de mercado")
+        div(titulo="<i>E-commerce</i> como estrategia de mercado")
           p El #[i E-commerce] es la estrategia de mercado más utilizada en la economía digital; esta es también conocida como la economía del Internet, comercio electrónico que opera soportado en las tecnologías de la información y la comunicación, las cuales están inmersas en los procesos de comercialización y en algunos casos productivos.
 
-        div(titulo="Oferta del e-commerce")
+        div(titulo="Oferta del <i>e-commerce</i>")
           p #[i E-commerce] oferta desde contenidos hasta bienes, los cuales requieren sellarse mediante medios de pagos electrónico, pero dada la naturaleza cambiante del ambiente digital, los negocios deben actualizar sus estrategias de mercado con el fin de tener mayor cobertura y atender diferentes necesidades relacionadas con las fuentes de ingresos, las formas de pago, los canales que facilitan la interacción entre cliente y vendedor; todo esto lleva al desarrollo de diferentes modelos de #[i e-commerce.]
 
     p.mt-5.mb-5 Dadas las condiciones en que se materializa el comercio electrónico, son muchos los beneficios que se pueden obtener de este ambiente de negocios, tanto para las empresas como para los usuarios.

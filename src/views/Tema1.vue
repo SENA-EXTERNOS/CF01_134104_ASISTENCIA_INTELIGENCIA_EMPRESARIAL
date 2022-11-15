@@ -32,7 +32,7 @@
     .row.justify-content-center 
     p.bg4.ml.text-figuras #[span.text-bold Figura 1.] Historia de la administración           
       figure
-        img(src="@/assets/curso/temas/tema1/img3.png", alt="alt") 
+        img(src="@/assets/curso/temas/tema1/img3.svg", alt="alt") 
       .cajon.tarjeta-nota-img.mb-5
           .row.justify-content-center.m-2
             p.m-2 #[span.text-bold Nota.] Tomado y adaptado de Münch (2014). 
@@ -84,7 +84,7 @@
           .row.justify-content-center
             .col-sm-10  
               figure 
-                img(src='@/assets/curso/temas/tema1/img7.png', alt='alt')                
+                img(src='@/assets/curso/temas/tema1/img7.svg', alt='alt')                
         .cajon.color-acento-botones.tarjeta-second-color.p-4(x="38%" y="49%" numero="+")  
           .row.justify-content-center 
             p.p-4.text-small En esta etapa, se definen: la razón de ser de la empresa o misión, la visión que se desea alcanzar, los objetivos organizacionales, así como también los propósitos, las premisas, estrategias, políticas, planes, programas, proyectos, presupuestos, procesos y procedimientos, y también la magnitud de la empresa y las áreas que esta requiere para su operación.
@@ -105,6 +105,7 @@
     p.mt-5.mb-5 Luego de conocer los fundamentos de la administración, concentrados en su definición y el proceso administrativo, se concluye que la planeación es considerada el fundamento de la organización y, por lo tanto, las etapas de organización, dirección y control se constituyen en columnas o pilares de la empresa de esta manera:            
 
     .row.justify-content-center.bg2.mg-img.mt-5.mb-5.mg-img-final
+      p.mx.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 4.]   Pilares de la empresa
       .row.justify-content-center.mt-5
         .col-md-6
           figure 

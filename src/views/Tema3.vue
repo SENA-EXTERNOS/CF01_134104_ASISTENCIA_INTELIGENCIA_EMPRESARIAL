@@ -36,11 +36,11 @@
                 h4.mt-3.text-white Métodos y técnicas para el diagnóstico organizacional
                 p.text-small.text-white A continuación, lo invitamos a descargar el documento #[span.text-bold “Métodos y técnicas para el diagnóstico organizacional”]  
             .col-lg-1.mt-4
-                a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 1 - Métodos y técnicas para el diagnóstico organizacional')" target="_blank")
+                a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Métodos_y_técnicas_para_el_diagnóstico_organizacional.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download  
 
-      p.mt-5.mb-5  Para llevar a cabo un diagnóstico, se utiliza una gran diversidad de herramientas, dependiendo de la profundidad deseada, de las variables que se desean investigar, de los recursos disponibles y de los grupos o niveles específicos entre los que se van a aplicar. A continuación, lo invitamos a descargar el documento #[span.text-bold “Procedimiento para elaborar un diagnóstico organizacional”]  para profundizar sobre este tema.                      
+      p.mt-5.mb-5  Para llevar a cabo un diagnóstico, se utiliza una gran diversidad de herramientas, dependiendo de la profundidad deseada, de las variables que se desean investigar, de los recursos disponibles y de los grupos o niveles específicos entre los que se van a aplicar.
 
       .col-md-10
         .tarjeta.color-tarjeta-descargas.p-3.mt-5.mb-5
@@ -51,7 +51,7 @@
                 h4.mt-3.text-white Procedimiento para elaborar un diagnóstico organizacional
                 p.text-small.text-white A continuación, lo invitamos a descargar el documento “Procedimiento para elaborar un diagnóstico organizacional” para profundizar sobre este tema.
             .col-lg-1.mt-4
-                a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 2 - Procedimiento para realizar un diagnóstico organizacional')" target="_blank")
+                a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 2 - Procedimiento para realizar un diagnóstico organizacional.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download 
 
@@ -112,7 +112,7 @@
           figure
             img(src="@/assets/curso/temas/tema3/img4.png", alt="alt")  
 
-        p.mt-5 De acuerdo con lo anterior, se concluye la existencia de diferentes matrices o herramientas para evaluar el contexto interno y externo de una organización, siendo de gran importancia la suma de ellas, pues cada una, con sus complementarios, permite dilucidar el panorama de la organización, encontrando estrategias que aporten a potencializar fortalezas, así como a convertir debilidades en fortalezas, a producir las oportunidades que brinda el entorno y, especialmente, a preparase para evitar los impactos de la ocurrencia de amenazas.                   
+        p.mt-5 De acuerdo con lo anterior, se concluye la existencia de diferentes matrices o herramientas para evaluar el contexto interno y externo de una organización, siendo de gran importancia la suma de ellas, pues cada una, con sus complementarios, permite dilucidar el panorama de la organización, encontrando estrategias que aporten a potencializar fortalezas, así como a convertir debilidades en fortalezas, a producir las oportunidades que brinda el entorno y, especialmente, a prepararse para evitar los impactos de la ocurrencia de amenazas.                   
                   
 
 </template>

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Inteligencia empresarial
+      h1 Plan de mejoramiento
     
     .row.justify-content-center.mb-5
       .tarjeta
@@ -78,8 +78,9 @@
             p Impulsan los procesos de la organización que están sujetos a la existencia de problemas que ponen en riesgo la rentabilidad de la organización; es por eso que las acciones que se planteen, deben conducir a resultados positivos y a la oportunidad de reducir el impacto de riesgo en los procesos. Las acciones de mejora deben contar con el siguiente esquema:
             ul.lista-ul
               li 
-              i.lista-ul__vineta #[span.text-bold Planificación de las acciones:] 
-               |al realizar el análisis de las técnicas de causas, se procede a formular las acciones que se implementarán para corregir los síntomas y problemas latentes en la organización. 
+              i.lista-ul__vineta 
+              |#[span.text-bold Planificación de las acciones:] 
+              |al realizar el análisis de las técnicas de causas, se procede a formular las acciones que se implementarán para corregir los síntomas y problemas latentes en la organización. 
               li 
               i.lista-ul__vineta
               | #[span.text-bold  Estado de la acción:] acción implementada, aún por implementar.
@@ -134,7 +135,7 @@
               .col-lg
                 h3 Árbol del problema
                 p Esta técnica representa al problema desde un análisis de este y se plasma en el árbol; en este caso, el problema sustenta en la raíz las causas, el tronco presenta el problema principal y en las ramas y hojas, los efectos como resultados de las causas. Lo anterior, permite establecer el problema, las causas y los efectos para interpretar, comprender y analizar mejor el problema. 
-              .col-auto
+              .col-6
                 figure(data-aos="zoom-in")
                   img(src='@/assets/curso/temas/tema6/img10.png', alt='').img125   
 

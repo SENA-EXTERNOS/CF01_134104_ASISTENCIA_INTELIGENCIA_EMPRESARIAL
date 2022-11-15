@@ -121,11 +121,9 @@
                   h4.mt-3.text-white Planeación estratégica
                   p.text-small.text-white Para profundizar más sobre este tema, lo invitamos a descargar el documento #[span.text-bold “Planeación estratégica”] donde podrá conocer los componentes, el proceso y los modelos de la planeación estratégica.
               .col-lg-1.mt-4
-                  a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 3 - Planeación estratégica')" target="_blank")
+                  a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 3 - Planeación estratégica.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download 
-
-      p.mt-5.mb-5   Para profundizar más sobre este tema, lo invitamos a descargar el documento #[span.text-bold “Planeación estratégica”] donde podrá conocer los componentes, el proceso y los modelos de la planeación estratégica.
 
       .row.justify-content-center 
         .col-md-10.mb-5  
@@ -235,7 +233,7 @@
                     img(src="@/assets/curso/temas/tema4/img16.png", alt="alt")
                 .crd_hover_txt--body.text-center
                   h5.mb-3 Rotación de los activos operacionales
-                  p.mb-0 los cuales son: las cuentas por cobrar, los inventarios y los activos fijos.
+                  p.mb-0 Los cuales son: las cuentas por cobrar, los inventarios y los activos fijos.
 
             .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
               .crd_hover_txt.tarjeta-radius-all(data-aos="flip-left")

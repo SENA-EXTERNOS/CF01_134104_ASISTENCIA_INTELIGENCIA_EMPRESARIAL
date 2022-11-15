@@ -35,10 +35,10 @@
             .col-1.mt-3
                 img(src="@/assets/curso/temas/tema2/img2.png")
             .col-md-7
-                h3.mt-3.text-white Decreto 957 de 2019.
+                h3.mt-3.text-white Decreto 957 de 2019
                 p.text-small.text-white Para conocer esta clasificación, lo invitamos a leer el Decreto 957 de 2019.
             .col-lg-1.mt-4
-                a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Caso de estudio empresarial.pdf')" target="_blank")
+                a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Caso de estudio empresarial.pdf')" target="_blank")                
                   span Descargar
                   i.fas.fa-file-download 
 
@@ -71,7 +71,7 @@
                 figure
                     img(src='@/assets/curso/temas/tema2/img5.png' alt='')  
 
-        .tarjeta.color-borde-slider.color-slider.p-4(titulo="Sector Cuaternario")
+        .tarjeta.color-borde-slider.color-slider.p-4(titulo="Sector cuaternario")
           .row.justify-content-center
             .col-md-7
               p Son las actividades intelectuales asociadas con el gobierno, la cultura, las bibliotecas, la investigación científica, la educación y la tecnología de la información. 

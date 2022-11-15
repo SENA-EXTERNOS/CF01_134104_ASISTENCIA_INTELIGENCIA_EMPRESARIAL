@@ -97,7 +97,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '5.2',
-            titulo: 'E-commerce',
+            titulo: '<i>E-commerce</i>',
             hash: 't_5_2',
           },
         ],
@@ -154,14 +154,14 @@ export default {
     {
       tema: 'Tipologías',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Tipos de sociedades en Colombia (video).',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). <i>Tipos de sociedades en Colombia</i> (video).',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=IvTbUlDBrrg ',
     },
     {
       tema: 'Estructura organizacional',
       referencia:
-        'Cajiga, J. (s.f.). El concepto de Responsabilidad Social Empresarial.',
+        'Cajiga, J. (s.f.). <i>El concepto de Responsabilidad Social Empresarial.</i>',
       tipo: 'PDF',
       link:
         'https://www.cemefi.org/esr/images/stories/pdf/esr/concepto_esr.pdf',
@@ -169,7 +169,7 @@ export default {
     {
       tema: 'Inteligencia empresarial',
       referencia:
-        'López Benítez, Y. (2018). Business Intelligence. ADGG102PO. IC Editorial.',
+        'López Benítez, Y. (2018).<i>Business Intelligence. ADGG102PO. IC Editorial.</i>',
       tipo: 'Libro',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/124393?page=10 ',
@@ -194,12 +194,12 @@ export default {
     },
     {
       termino: 'CRM',
-      significado:
-        'información cualitativa y cuantitativa, resultado de la recopilación de números o letras, que facilitan una evidencia o deducción científica.',
+      significado: 'base de datos de clientes de una empresa.',
     },
     {
       termino: 'Dato',
-      significado: 'facultad para tomar decisiones que producen efectos.',
+      significado:
+        'información cualitativa y cuantitativa, resultado de la recopilación de números o letras, que facilitan una evidencia o deducción científica.',
     },
     {
       termino: 'Delegación',
@@ -234,12 +234,12 @@ export default {
   referencias: [
     {
       referencia:
-        'Bravo, L., Ramos, P., Tejada, A. & Valenzuela, A. (2019). Perspectiva teórica del diagnóstico organizacional. Revista Venezolana de Gerencia, 24(88). p. 1316-1328. ',
+        'Bravo, L., Ramos, P., Tejada, A. & Valenzuela, A. (2019). Perspectiva teórica del diagnóstico organizacional. <i>Revista Venezolana de Gerencia</i>, 24(88). p. 1316-1328. ',
       link: 'https://www.redalyc.org/journal/290/29062051021/html/ ',
     },
     {
       referencia:
-        'Cardoso, M. y Poveda, N. (2021). Diagnóstico Organizacional y Plan de Mejoramiento para la Microempresa Modas Milenio del municipio de La Mesa, Cundinamarca (Trabajo de grado, Universidad de Cundinamarca). Repositorio Universidad de Cundinamarca.  ',
+        'Cardoso, M. y Poveda, N. (2021). <i>Diagnóstico Organizacional y Plan de Mejoramiento para la Microempresa Modas Milenio del municipio de La Mesa, Cundinamarca</i> (Trabajo de grado, Universidad de Cundinamarca). Repositorio Universidad de Cundinamarca.  ',
       link:
         'https://repositorio.ucundinamarca.edu.co/bitstream/handle/20.500.12558/3761/Diagn%c3%b3stico%20organizacional%20y%20plan%20de%20mejoramiento%20para%20la%20microempresa%20modas%20milenio%20del%20municipio%20de%20La%20Mesa-%20Cundinamarca.pdf?sequence=1&isAllowed=y',
     },
@@ -250,24 +250,24 @@ export default {
     },
     {
       referencia:
-        'Gerencie.com. (s.f.). Empresa unipersonal en Colombia. Gerencie.com. ',
+        'Gerencie.com. (s.f.). <i>Empresa unipersonal en Colombia.</i> Gerencie.com. ',
       link: 'https://www.gerencie.com/empresa-unipersonal.html ',
     },
     {
       referencia:
-        'López Benítez, Y. (2018). Business Intelligence. ADGG102PO. IC Editorial. ',
+        'López Benítez, Y. (2018). <i>Business Intelligence. ADGG102PO.</i> IC Editorial. ',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/124393?page=10 ',
     },
     {
       referencia:
-        'Meza, A. (2020). El Diagnóstico Organizacional: elementos, métodos y técnicas. Mi espacio.',
+        'Meza, A. (2020). <i>El Diagnóstico Organizacional: elementos, métodos y técnicas.</i> Mi espacio.',
       link:
         'https://www.infosol.com.mx/miespacio/el-diagnostico-organizacional-elementos-metodos-y-tecnicas/',
     },
     {
       referencia:
-        'Münch, L. (2014). Administración. Gestión organizacional, enfoques y proceso administrativo (2da ed.). Editorial Pearson Education.',
+        'Münch, L. (2014). <i>Administración. Gestión organizacional, enfoques y proceso administrativo (2da ed.).</i> Editorial Pearson Education.',
       link:
         'https://profesorailleanasilva.files.wordpress.com/2015/10/administracic3b3n-lourdes-munch-2a-edicic3b3n.pdf',
     },
@@ -279,25 +279,25 @@ export default {
     },
     {
       referencia:
-        'Pedraza, M., Sastoque, J., Serrano, L. & Tarazona, D. (2015). Diagnóstico Organizacional a 100 Mipymes de Fusagasugá (Trabajo de investigación, Universidad de Cundinamarca). Repositorio Universidad de Cundinamarca. ',
+        'Pedraza, M., Sastoque, J., Serrano, L. & Tarazona, D. (2015). <i>Diagnóstico Organizacional a 100 Mipymes de Fusagasugá</i> (Trabajo de investigación, Universidad de Cundinamarca). Repositorio Universidad de Cundinamarca. ',
       link:
         'https://repositorio.ucundinamarca.edu.co/bitstream/handle/20.500.12558/1349/DIAGNOSTICO%20ORGANIZACIONAL%20A%20100%20MIPYMES%20DE%20FUSAGASUGA.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
-        'Polanco, Y. J., Santos, P. & Cruz, G. A. D. L. (2020). Teoría y estructura organizacional. Universidad Abierta para Adultos (UAPA).',
+        'Polanco, Y. J., Santos, P. & Cruz, G. A. D. L. (2020). <i>Teoría y estructura organizacional.</i> Universidad Abierta para Adultos (UAPA).',
       link:
         ' https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/175883?page=1',
     },
     {
       referencia:
-        'Quiroa, M. (s.f.). Áreas funcionales de una empresa. Economipedia. ',
+        'Quiroa, M. (s.f.). <i>Áreas funcionales de una empresa.</i> Economipedia. ',
       link:
         'https://economipedia.com/definiciones/areas-funcionales-de-una-empresa.html#:~:text=Por%20lo%20general%2C%20una%20empresa,de%20finanzas%20y%20de%20marketing',
     },
     {
       referencia:
-        'Salgado Benítez, J., Guerrero López, L. & Salgado Hernández, N. (2016). Fundamentos de Administración. Grupo Editorial Éxodo. ',
+        'Salgado Benítez, J., Guerrero López, L. & Salgado Hernández, N. (2016). <i>Fundamentos de Administración.</i> Grupo Editorial Éxodo. ',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/130328 ',
     },
