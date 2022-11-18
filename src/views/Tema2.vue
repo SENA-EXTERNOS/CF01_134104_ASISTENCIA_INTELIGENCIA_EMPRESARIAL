@@ -197,7 +197,7 @@
         .col-md-8.mb-5 
           p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 5.]  Tipos de organigramas
           figure 
-            img(src='@/assets/curso/temas/tema2/img10.png', alt='alt')
+            img(src='@/assets/curso/temas/tema2/img10.svg', alt='alt')
           .cajon.tarjeta-nota-img.mb-5
             .row.justify-content-center.m-2
               p.m-2 #[span.text-bold Nota.] Tomado y adaptado de Salgado, Guerrero & Salgado (2016).   

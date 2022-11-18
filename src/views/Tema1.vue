@@ -24,7 +24,7 @@
       .tarjeta
         .row.justify-content-left
           .col-sm-7.mb-3
-            p.mt-5 La administración aparece debido a la necesidad para subsistir desde la época de la prehistoria, donde es utilizada de forma rudimentaria, para organizar grupos, para el trabajo, como la caza a la que se dedicaban los hombres y la agricultura a cargo de las mujeres, conformando grupos por edad y por sexo. Luego, el hombre busca asentamientos, se desarrollan las civilizaciones y aparece el Estado, designando trabajo colectivo y cobrando el tributo. A continuación, una síntesis en cuanto a la trayectoria e historia de la administración:
+            p.mt-5 La administración aparece debido a la necesidad para subsistir desde la época de la prehistoria, donde es utilizada de forma rudimentaria, para organizar grupos, para el trabajo, como la caza a la que se dedicaban los hombres y la agricultura a cargo de las mujeres, conformando grupos por edad y por sexo. Luego, el hombre busca asentamientos, se desarrollan las civilizaciones y aparece el Estado, designando trabajo colectivo y cobrando el tributo. A continuación, se presenta una síntesis en cuanto a la trayectoria e historia de la administración:
           .col-sm-5.mb-3.mt-5.m-top-img
             figure
               img(src="@/assets/curso/temas/tema1/img2.png", alt="alt")
