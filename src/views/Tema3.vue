@@ -36,7 +36,7 @@
                 h4.mt-3.text-white Métodos y técnicas para el diagnóstico organizacional
                 p.text-small.text-white A continuación, lo invitamos a descargar el documento #[span.text-bold “Métodos y técnicas para el diagnóstico organizacional”]  
             .col-lg-1.mt-4
-                a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Métodos_y_técnicas_para_el_diagnóstico_organizacional.pdf')" target="_blank")
+                a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 1 - Métodos y técnicas para el diagnóstico organizacional.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download  
 
