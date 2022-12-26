@@ -38,7 +38,7 @@
                 h3.mt-3.text-white Decreto 957 de 2019
                 p.text-small.text-white Para conocer esta clasificación, lo invitamos a leer el Decreto 957 de 2019.
             .col-lg-1.mt-4
-                a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Caso de estudio empresarial.pdf')" target="_blank")                
+                a.boton.color-acento-botones.text-white(href="https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20957%20DEL%2005%20DE%20JUNIO%20DE%202019.pdf" target="_blank")                
                   span Descargar
                   i.fas.fa-file-download 
 
