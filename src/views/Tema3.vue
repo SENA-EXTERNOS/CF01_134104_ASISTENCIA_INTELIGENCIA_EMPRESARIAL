@@ -112,8 +112,8 @@
           figure
             img(src="@/assets/curso/temas/tema3/img4.png", alt="alt")  
 
-        p.mt-5 De acuerdo con lo anterior, se concluye la existencia de diferentes matrices o herramientas para evaluar el contexto interno y externo de una organización, siendo de gran importancia la suma de ellas, pues cada una, con sus complementarios, permite dilucidar el panorama de la organización, encontrando estrategias que aporten a potencializar fortalezas, así como a convertir debilidades en fortalezas, a producir las oportunidades que brinda el entorno y, especialmente, a prepararse para evitar los impactos de la ocurrencia de amenazas.                   
-                  
+        p.mt-5 De acuerdo con lo anterior, se concluye la existencia de diferentes matrices o herramientas, para evaluar el contexto interno y externo de una organización, siendo de gran importancia la suma de ellas, pues cada una, con sus complementarios, permite dilucidar el panorama de la organización, encontrando estrategias que aporten a potencializar fortalezas, así como a convertir debilidades en fortalezas, a producir las oportunidades que brinda el entorno y, especialmente, a prepararse para evitar los impactos de la ocurrencia de amenazas.
+           
 
 </template>
 

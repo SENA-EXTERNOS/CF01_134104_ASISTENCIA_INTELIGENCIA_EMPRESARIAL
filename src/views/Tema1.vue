@@ -24,13 +24,17 @@
       .tarjeta
         .row.justify-content-left
           .col-sm-7.mb-3
-            p.mt-5 La administración aparece debido a la necesidad para subsistir desde la época de la prehistoria, donde es utilizada de forma rudimentaria, para organizar grupos, para el trabajo, como la caza a la que se dedicaban los hombres y la agricultura a cargo de las mujeres, conformando grupos por edad y por sexo. Luego, el hombre busca asentamientos, se desarrollan las civilizaciones y aparece el Estado, designando trabajo colectivo y cobrando el tributo. A continuación, se presenta una síntesis en cuanto a la trayectoria e historia de la administración:
+            p.mt-5 La administración aparece debido a la necesidad de subsistir, desde la época prehistórica, donde es utilizada de forma rudimentaria, para organizar grupos para el trabajo, como la caza a la que se dedicaban los hombres y la agricultura a cargo de las mujeres, conformando grupos por edad y por sexo. Luego, el hombre busca asentamientos, se desarrollan las civilizaciones y aparece el Estado, designando trabajo colectivo y cobrando el tributo.
           .col-sm-5.mb-3.mt-5.m-top-img
             figure
               img(src="@/assets/curso/temas/tema1/img2.png", alt="alt")
 
+    
+    .row.mt-5
+      p A continuación, se presenta una síntesis en cuanto a la trayectoria e historia de la administración:
+    
     .row.justify-content-center 
-    p.bg4.ml.text-figuras #[span.text-bold Figura 1.] Historia de la administración           
+    p.bg4.ml.text-figuras #[span.text-bold Figura 1.] <br><em>Historia de la administración</em>           
       figure
         img(src="@/assets/curso/temas/tema1/img3.svg", alt="alt") 
       .cajon.tarjeta-nota-img.mb-5
@@ -38,16 +42,16 @@
             p.m-2 #[span.text-bold Nota.] Tomado y adaptado de Münch (2014). 
     
     .row.align-items-end.bg3.h4.p-3 La administración como ciencia, técnica y arte
-    p Con el fin de ampliar el universo de la administración, es necesario mencionar que la administración ha sido considerada como una ciencia, una técnica y un arte, como se presenta en la siguiente tabla.             
+    p Con el fin de ampliar el universo de la administración, es necesario mencionar que la administración ha sido considerada como una ciencia, una técnica y un arte, como se presenta en la siguiente tabla:
 
     .row.justify-content-center 
       .col-md-10      
-        p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Tabla 1.]  La administración como ciencia, técnica y arte
+        p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Tabla 1.]  <br><em>La administración como ciencia, técnica y arte</em>
         figure
           img(src="@/assets/curso/temas/tema1/img4.png", alt="alt")
         .cajon.tarjeta-nota-img.mb-5
           .row.justify-content-center.m-2
-            p.m-2 #[span.text-bold Nota.] Tomada y adaptada de Sal. 
+            p.m-2 #[span.text-bold Nota.] Nota. Tomada y adaptada de Salgado y Guerrero (2016).
 
     .row.align-items-end.bg3.h4.p-3 Elementos y características de la administración
 
@@ -55,14 +59,14 @@
 
     .row.justify-content-center 
       .col-md-6     
-        p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 2.]  Elementos de la administración
+        p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 2.]  <br><em>Elementos de la administración</em>
         figure
           img(src="@/assets/curso/temas/tema1/img5.png", alt="alt") 
 
     p.mt-4.mb-4 Todos estos elementos marcan una interacción específica y exclusiva en cada organización, haciendo de esta ciencia un instrumento útil y eficaz, de manera que sea identificada por las siguientes características:
     .row.justify-content-center.mb-4 
       .col-md-6     
-        p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 3.]   Características
+        p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 3.]  <br><em>Características</em>
         figure
           img(src="@/assets/curso/temas/tema1/img6.png", alt="alt") 
 
@@ -105,7 +109,7 @@
     p.mt-5.mb-5 Luego de conocer los fundamentos de la administración, concentrados en su definición y el proceso administrativo, se concluye que la planeación es considerada el fundamento de la organización y, por lo tanto, las etapas de organización, dirección y control se constituyen en columnas o pilares de la empresa de esta manera:            
 
     .row.justify-content-center.bg2.mg-img.mt-5.mb-5.mg-img-final
-      p.mx.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 4.]   Pilares de la empresa
+      p.mx.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 4.] <br><em>Pilares de la empresa</em>
       .row.justify-content-center.mt-5
         .col-md-6
           figure 

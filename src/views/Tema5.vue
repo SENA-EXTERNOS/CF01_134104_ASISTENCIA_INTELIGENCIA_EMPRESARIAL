@@ -136,8 +136,8 @@
         .row.justify-content-center.mb-3
           .col-7
             img(src='@/assets/curso/temas/tema5/img13.png' alt='alt')
-        h2.text-center Encuestas online
-        p.texto-centro Son el método más económico para recopilar datos y llegar a una gran audiencia. Los resultados se obtienen en tiempo real, la inversión es menor y el encuestado necesita muy poco tiempo para responderlas, lo que a su vez proporciona buenos índices de respuesta a la encuesta.
+        h2.text-center Encuestas #[i online]
+        p.texto-centro Se refieren al método más económico para recopilar datos y llegar a una gran audiencia. Los resultados se obtienen en tiempo real, la inversión es menor y el encuestado necesita muy poco tiempo para responderlas, lo que a su vez proporciona buenos índices de respuesta a la encuesta.
 
       .tarjeta.color-tarjeta-avatar-gris.h-tarjeta-avatar-gris.p-4
         .row.justify-content-center.mb-4
@@ -151,7 +151,7 @@
           .col-7
             img(src='@/assets/curso/temas/tema5/img15.png' alt='alt')
         h2.texto-centro Encuestas telefónicas
-        p.texto-centro Son un poco más costosas que las encuestas online, pero mucho más económicas que las encuestas personales. 
+        p.texto-centro Son un poco más costosas que las encuestas #[i online], pero mucho más económicas que las encuestas personales. 
 
       .tarjeta.color-tarjeta-avatar-gris.h-tarjeta-avatar-gris.p-4
         .row.justify-content-center.mb-5
@@ -171,8 +171,8 @@
         .row.justify-content-center.mb-5
           .col-7
             img(src='@/assets/curso/temas/tema5/img18.png' alt='AvatarTop')
-        h2.texto-centro Formularios online 
-        p.texto-centro Se utilizan para recopilar información específica de un encuestado en cada campo como: edad, género, ingresos, entre otros. 
+        h2.texto-centro Formularios #[i online] 
+        p.texto-centro Se utilizan para recopilar información específica de un encuestado en cada campo, como: edad, género, ingresos, entre otros. 
 
     p.mt-5  Las siguientes son algunas de las ventajas de la inteligencia empresarial:
 
@@ -218,21 +218,24 @@
         .cajon.tarjeta-radius.color-acento-contenido.cajon-second-color.p-3
           .row.justify-content-center.p-4                       
             p Estas nuevas condiciones han generado un naciente universo digital de interacciones, que ofrece nuevas posibilidades a las que las organizaciones no son ajenas, puesto que, conociendo las herramientas adecuadas, les puede significar hacerse acreedoras de importantes ventajas comerciales y competitivas.
-      .col-md-6.mt-5
-        figure
-          img(src="@/assets/curso/temas/tema5/img23.png", alt="alt").img100 
+      
 
     p.mt-5.mb-5 A continuación, se conocerán algunos elementos claves del #[i e-commerce:]
+
     .row.justify-content-center
-      AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon-gris color-borde-slider").mt-5
-        .row(titulo="Concepto")
-          p #[i E-commerce] se conoce como el conjunto de relaciones comerciales establecidas por varios individuos que buscan en esencia, ejecutar operaciones de compra, venta y distribuciones de bienes y servicios soportados en Internet.
+      .col-lg-4
+        figure
+          img(src="@/assets/curso/temas/tema5/img23.png", alt="alt").img100 
+      .col-lg-8
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon-gris color-borde-slider").mt-5
+          .row(titulo="Concepto")
+            p #[i E-commerce] se conoce como el conjunto de relaciones comerciales establecidas por varios individuos que buscan en esencia, ejecutar operaciones de compra, venta y distribuciones de bienes y servicios soportados en Internet.
 
-        div(titulo="<i>E-commerce</i> como estrategia de mercado")
-          p El #[i E-commerce] es la estrategia de mercado más utilizada en la economía digital; esta es también conocida como la economía del Internet, comercio electrónico que opera soportado en las tecnologías de la información y la comunicación, las cuales están inmersas en los procesos de comercialización y en algunos casos productivos.
+          div(titulo="<i>E-commerce</i> como estrategia de mercado")
+            p El #[i E-commerce] es la estrategia de mercado más utilizada en la economía digital; esta es también conocida como la economía del Internet, comercio electrónico que opera soportado en las tecnologías de la información y la comunicación, las cuales están inmersas en los procesos de comercialización y en algunos casos productivos.
 
-        div(titulo="Oferta del <i>e-commerce</i>")
-          p #[i E-commerce] oferta desde contenidos hasta bienes, los cuales requieren sellarse mediante medios de pagos electrónico, pero dada la naturaleza cambiante del ambiente digital, los negocios deben actualizar sus estrategias de mercado con el fin de tener mayor cobertura y atender diferentes necesidades relacionadas con las fuentes de ingresos, las formas de pago, los canales que facilitan la interacción entre cliente y vendedor; todo esto lleva al desarrollo de diferentes modelos de #[i e-commerce.]
+          div(titulo="Oferta del <i>e-commerce</i>")
+            p #[i E-commerce] oferta desde contenidos hasta bienes, los cuales requieren sellarse mediante medios de pagos electrónico, pero dada la naturaleza cambiante del ambiente digital, los negocios deben actualizar sus estrategias de mercado con el fin de tener mayor cobertura y atender diferentes necesidades relacionadas con las fuentes de ingresos, las formas de pago, los canales que facilitan la interacción entre cliente y vendedor; todo esto lleva al desarrollo de diferentes modelos de #[i e-commerce.]
 
     p.mt-5.mb-5 Dadas las condiciones en que se materializa el comercio electrónico, son muchos los beneficios que se pueden obtener de este ambiente de negocios, tanto para las empresas como para los usuarios.
     p.mb-5 Los modelos de #[i e-commerce] que se destacan son: 
@@ -300,7 +303,7 @@
                 figure
                   img(src="@/assets/curso/temas/tema5/img30.png", alt="alt")
               .crd_hover_txt--body.text-center
-                h5.mb-3 Tiendas online
+                h5.mb-3 Tiendas #[i online]
                 p.mb-0 Tienen las mismas características de las tiendas físicas, pero adaptan sus servicios para el intercambio de artículos a distancia y medios de pago electrónico, o a través de plataformas recaudadoras.
 
           .col-xl-12.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -337,7 +340,7 @@
                   img(src="@/assets/curso/temas/tema5/img34.png", alt="alt")
               .crd_hover_txt--body.text-center
                 h5.mb-3 Servicios personales o consultoría
-                p.mb-0 Es cualquier intercambio de dinero por tiempo, como asesorías, educación online, talleres.
+                p.mb-0 Se refiere a cualquier intercambio de dinero por tiempo, como asesorías, educación #[i online], talleres.
 
 
 

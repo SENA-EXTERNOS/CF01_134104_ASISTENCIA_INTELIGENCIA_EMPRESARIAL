@@ -121,7 +121,7 @@
                   h4.mt-3.text-white Planeación estratégica
                   p.text-small.text-white Para profundizar más sobre este tema, lo invitamos a descargar el documento #[span.text-bold “Planeación estratégica”] donde podrá conocer los componentes, el proceso y los modelos de la planeación estratégica.
               .col-lg-1.mt-4
-                  a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 3 - Planeación estratégica.pdf')" target="_blank")
+                  a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo3.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download 
 

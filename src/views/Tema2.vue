@@ -159,7 +159,7 @@
               .row.justify-content-center
                 .col-sm-10  
                   figure 
-                    img(src='@/assets/curso/temas/tema2/img9.png', alt='alt')                
+                    img(src='@/assets/curso/temas/tema2/img9.svg', alt='alt')                
             .cajon.color-acento-botones.tarjeta-second-color.p-4(x="54%" y="1%" numero="+")  
               .row.justify-content-center 
                 p.p-4.text-small Esta área está ligada directamente a la razón de ser de la empresa o su misión. En ella se transforma la materia prima en productos terminados, optimizando y garantizando la calidad de los recursos en el proceso productivo, cumpliendo con los estándares de calidad y satisfacción del cliente.
@@ -195,7 +195,7 @@
 
     .row.justify-content-center 
         .col-md-8.mb-5 
-          p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 5.]  Tipos de organigramas
+          p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 5.]  <br><em>Tipos de organigramas</em>
           figure 
             img(src='@/assets/curso/temas/tema2/img10.svg', alt='alt')
           .cajon.tarjeta-nota-img.mb-5
@@ -206,7 +206,7 @@
 
     .row.justify-content-center 
         .col-md-8.mb-5 
-          p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 6.]  Tipos de organigramas
+          p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 6.]  <br><em>Tipos de organigramas</em>
           figure 
             img(src='@/assets/curso/temas/tema2/img11.png', alt='alt')
           .cajon.tarjeta-nota-img.mb-5

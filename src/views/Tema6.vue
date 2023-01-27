@@ -40,13 +40,13 @@
             p Son medidas preventivas para solucionar la causa de un problema o de un proceso, antes de su aparición y evitar la ocurrencia del problema; se utilizan de las siguientes maneras:
             ul.lista-ul
               li 
-                i.lista-ul__vineta
+                i.fa.fa-circle
                 | Antes que suceda el problema, es decir, ante el hallazgo de un riesgo.
               li 
-                i.lista-ul__vineta
+                i.fa.fa-circle
                 | Se reemplaza el riesgo inminente por la mejora continua en el momento adecuado.                
               li 
-                i.lista-ul__vineta
+                i.fa.fa-circle
                 | Se evalúa la causa y se establecen acciones de mejora para prevenir la ocurrencia. 
             p En conclusión, las medidas preventivas son recursos útiles activos ante un problema potencial, que se puede prevenir antes que ocurra.
 
@@ -144,7 +144,7 @@
             .col-md-12.mb-5  
               .cajon.tarjeta-radius.color-acento-contenido.cajon-second-color.p-3
                 .row.justify-content-center.p-4                
-                  p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados. 
+                  p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
 
 
 
