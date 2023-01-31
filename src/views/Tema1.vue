@@ -34,7 +34,7 @@
       p A continuación, se presenta una síntesis en cuanto a la trayectoria e historia de la administración:
     
     .row.justify-content-center 
-    p.bg4.ml.text-figuras #[span.text-bold Figura 1.] <br><em>Historia de la administración</em>           
+    p.bg4.ml.text-figuras #[span.text-bold Figura 1] <br><em>Historia de la administración</em>           
       figure
         img(src="@/assets/curso/temas/tema1/img3.svg", alt="alt") 
       .cajon.tarjeta-nota-img.mb-5
@@ -46,7 +46,7 @@
 
     .row.justify-content-center 
       .col-md-10      
-        p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Tabla 1.]  <br><em>La administración como ciencia, técnica y arte</em>
+        p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Tabla 1]  <br><em>La administración como ciencia, técnica y arte</em>
         figure
           img(src="@/assets/curso/temas/tema1/img4.png", alt="alt")
         .cajon.tarjeta-nota-img.mb-5

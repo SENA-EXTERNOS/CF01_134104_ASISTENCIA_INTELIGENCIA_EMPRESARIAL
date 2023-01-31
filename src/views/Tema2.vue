@@ -170,7 +170,7 @@
                                             
             .cajon.color-acento-botones.tarjeta-second-color.p-4(x="78%" y="84%" numero="+")
               .row.justify-content-center 
-                p.p-4.text-small Esta área direcciona los esfuerzos hacia la planificación y diseño de nuevos productos, conforme con las necesidades del cliente y las tendencias del mercado. Define las estrategias de marketing a implementar, según el mercado o segmento, para la captación de clientes mediante una comunicación estratégica.
+                p.p-4.text-small Esta área direcciona los esfuerzos hacia la planificación y diseño de nuevos productos, conforme con las necesidades del cliente y las tendencias del mercado. Define las estrategias de #[i marketing] a implementar, según el mercado o segmento, para la captación de clientes mediante una comunicación estratégica.
 
             .cajon.color-acento-botones.tarjeta-second-color.p-4(x="21%" y="85%" numero="+")
               .row.justify-content-center 
@@ -195,7 +195,7 @@
 
     .row.justify-content-center 
         .col-md-8.mb-5 
-          p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 5.]  <br><em>Tipos de organigramas</em>
+          p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 5]  <br><em>Tipos de organigramas</em>
           figure 
             img(src='@/assets/curso/temas/tema2/img10.svg', alt='alt')
           .cajon.tarjeta-nota-img.mb-5
@@ -206,7 +206,7 @@
 
     .row.justify-content-center 
         .col-md-8.mb-5 
-          p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 6.]  <br><em>Tipos de organigramas</em>
+          p.bg4.ml.text-figuras.mt-5.mb-4 #[span.text-bold Figura 6]  <br><em>Tipos de organigramas</em>
           figure 
             img(src='@/assets/curso/temas/tema2/img11.png', alt='alt')
           .cajon.tarjeta-nota-img.mb-5
@@ -220,7 +220,7 @@
 
     .col-md-12.mb-5 
       figure 
-        img(src='@/assets/curso/temas/tema2/img12.png', alt='alt') 
+        img(src='@/assets/curso/temas/tema2/img12.svg', alt='alt') 
 
     .row.align-items-end.bg3.h4.p-3 Manual de funciones 
     p.mt-5.mb-5   Los manuales de funciones son documentos elaborados, basados en la estructura organizacional que contiene las características, interrelación entre órganos, unidades y puestos de trabajo, donde se reflejan la jerarquía, los grados de autoridad y responsabilidad, y las líneas de comunicación establecidas. Este tema permite evidenciar la dinámica de la organización, mediante los procesos y procedimientos que cada puesto de trabajo debe afrontar, definiendo las reglas de ejecución, el diagrama de operación, y los formatos correspondientes.         
