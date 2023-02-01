@@ -175,7 +175,7 @@ export default {
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/124393?page=10 ',
     },
     {
-      tema: 'Empresa',
+      tema: 'Estructura organizacional',
       referencia: 'Código de Comercio (CC). Artículo 461. Colombia.',
       tipo: 'Ley',
       link:
