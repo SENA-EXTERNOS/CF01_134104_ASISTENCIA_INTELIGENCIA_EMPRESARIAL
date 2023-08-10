@@ -235,7 +235,7 @@
             p El #[i E-commerce] es la estrategia de mercado más utilizada en la economía digital; esta es también conocida como la economía del Internet, comercio electrónico que opera soportado en las tecnologías de la información y la comunicación, las cuales están inmersas en los procesos de comercialización y en algunos casos productivos.
 
           div(titulo="Oferta del <i>e-commerce</i>")
-            p #[i E-commerce] oferta desde contenidos hasta bienes, los cuales requieren sellarse mediante medios de pagos electrónico, pero dada la naturaleza cambiante del ambiente digital, los negocios deben actualizar sus estrategias de mercado con el fin de tener mayor cobertura y atender diferentes necesidades relacionadas con las fuentes de ingresos, las formas de pago, los canales que facilitan la interacción entre cliente y vendedor; todo esto lleva al desarrollo de diferentes modelos de #[i e-commerce.]
+            p #[i E-commerce] oferta desde contenidos hasta bienes, los cuales requieren sellarse mediante medios de pagos electrónicos, pero dada la naturaleza cambiante del ambiente digital, los negocios deben actualizar sus estrategias de mercado con el fin de tener mayor cobertura y atender diferentes necesidades relacionadas con las fuentes de ingresos, las formas de pago, los canales que facilitan la interacción entre cliente y vendedor; todo esto lleva al desarrollo de diferentes modelos de #[i e-commerce.]
 
     p.mt-5.mb-5 Dadas las condiciones en que se materializa el comercio electrónico, son muchos los beneficios que se pueden obtener de este ambiente de negocios, tanto para las empresas como para los usuarios.
     p.mb-5 Los modelos de #[i e-commerce] que se destacan son: 

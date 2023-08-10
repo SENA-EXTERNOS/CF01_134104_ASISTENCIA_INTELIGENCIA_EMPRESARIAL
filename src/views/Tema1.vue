@@ -95,7 +95,7 @@
                                         
         .cajon.color-acento-botones.tarjeta-second-color.p-4(x="57%" y="49%" numero="+" )
           .row.justify-content-center 
-            p.p-4.text-small En esta etapa, se define la estructura orgánica y se designan puestos de trabajo de acuerdo con los objetivos organizaciones y de área o departamento; de esta manera, se forma un conjunto de estructuras que decantan lo establecido en la planeación, para la puesta en marcha de la organización.                                           
+            p.p-4.text-small En esta etapa, se define la estructura orgánica y se designan puestos de trabajo de acuerdo con los objetivos, organizaciones y de área o departamento; de esta manera, se forma un conjunto de estructuras que decantan lo establecido en la planeación, para la puesta en marcha de la organización.                                           
                                         
         .cajon.color-acento-botones.tarjeta-second-color.p-4(x="57%" y="65%" numero="+")
           .row.justify-content-center 
