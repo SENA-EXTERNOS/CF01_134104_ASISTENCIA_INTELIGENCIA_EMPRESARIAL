@@ -79,8 +79,8 @@
                 figure
                     img(src='@/assets/curso/temas/tema2/img6.png' alt='') 
 
-    .row.align-items-end.bg3.h4.p-3 Origen de capital  
-    p.mt-3 Según el origen del capital correspondiente a la inversión original para dar inicio a la operación de la empresa esta puede ser privada, pública, si el capital proviene del Estado, o mixta si el capital aportado proviene de socios que pueden ser personas naturales o jurídicas y de entidades del Estado, simultáneamente.                                            
+    .row.align-items-end.bg3.h4.p-3 Origen del capital  
+    p.mt-3 Según el origen del capital correspondiente a la inversión original para dar inicio a la operación de la empresa, esta puede ser privada, pública, si el capital proviene del Estado, o mixta si el capital aportado proviene de socios que pueden ser personas naturales o jurídicas y de entidades del Estado, simultáneamente.                                            
 
     .row.justify-content-center.mt-5.mb-5
       .col-md-10

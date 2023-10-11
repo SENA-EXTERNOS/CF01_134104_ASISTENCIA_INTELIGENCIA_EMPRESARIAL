@@ -51,7 +51,7 @@
           img(src="@/assets/curso/temas/tema1/img4.png", alt="alt")
         .cajon.tarjeta-nota-img.mb-5
           .row.justify-content-center.m-2
-            p.m-2 #[span.text-bold Nota.] Nota. Tomada y adaptada de Salgado y Guerrero (2016).
+            p.m-2 #[span.text-bold Nota.] Tomada y adaptada de Salgado y Guerrero (2016).
 
     .row.align-items-end.bg3.h4.p-3 Elementos y características de la administración
 
@@ -74,7 +74,7 @@
 
     .row.align-items-end.bg3.h4.p-3 Proceso administrativo
 
-    p.mt-4.mb-5 Es un proceso sistémico e integral donde la administración se implementa a través de dos fases: mecánica y dinámica. La primera fase establece los fundamentos para su implementación y la segunda fase pone en marcha y, a prueba, todo lo definido en la primera.
+    p.mt-4.mb-5 Es un proceso sistémico e integral donde la administración se implementa a través de dos fases: mecánica y dinámica. La primera fase establece los fundamentos para su implementación y la segunda fase pone en marcha y aprueba, todo lo definido en la primera.
     .row.justify-content-center 
       .col-md-11  
         .cajon.tarjeta-radius.color-acento-contenido.cajon-second-color.p-3

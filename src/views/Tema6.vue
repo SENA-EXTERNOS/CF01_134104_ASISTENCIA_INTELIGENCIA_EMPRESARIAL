@@ -37,7 +37,7 @@
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/tema6/img3.png', alt='').img400.m-auto
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0            
-            p Son medidas preventivas para solucionar la causa de un problema o de un proceso, antes de su aparición y evitar la ocurrencia del problema; se utilizan de las siguientes maneras:
+            p Son medidas preventivas para solucionar la causa de un problema o de un proceso, antes de su aparición y evitar la ocurrencia del problema; se utilizan de la siguiente manera:
             ul.lista-ul
               li 
                 i.fa.fa-circle
@@ -56,16 +56,16 @@
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/tema6/img4.png', alt='').img400.m-auto                    
           .col-lg-7
-            p Son actividades que se establecen para corregir el problema sucedido, son las acciones realizadas para neutralizar el problema y controlarlo a través de las medidas necesarias, evitando su repetición; se utilizan de las siguientes maneras:
+            p Son actividades que se establecen para corregir el problema sucedido, son las acciones realizadas para neutralizar el problema y controlarlo a través de las medidas necesarias, evitando su repetición; se utilizan de la siguiente manera:
             ul.lista-ul
               li 
-                i.lista-ul__vineta
+                i.fa.fa-circle
                 | Después que sucede el problema. 
               li 
-                i.lista-ul__vineta
+                i.fa.fa-circle
                 | Se evalúa la causa y se crea un plan para prevenir la irregularidad.                
               li 
-                i.lista-ul__vineta
+                i.fa.fa-circle
                 | Se propone una actividad después de la ocurrencia del hecho.            
    
 
@@ -78,18 +78,17 @@
             p Impulsan los procesos de la organización que están sujetos a la existencia de problemas que ponen en riesgo la rentabilidad de la organización; es por eso que las acciones que se planteen, deben conducir a resultados positivos y a la oportunidad de reducir el impacto de riesgo en los procesos. Las acciones de mejora deben contar con el siguiente esquema:
             ul.lista-ul
               li 
-              i.lista-ul__vineta 
-              |#[span.text-bold Planificación de las acciones:] 
-              |al realizar el análisis de las técnicas de causas, se procede a formular las acciones que se implementarán para corregir los síntomas y problemas latentes en la organización. 
+                i.fa.fa-circle 
+                p.mb-0 #[b Planificación de las acciones:] al realizar el análisis de las técnicas de causas, se procede a formular las acciones que se implementarán para corregir los síntomas y problemas latentes en la organización. 
               li 
-              i.lista-ul__vineta
-              | #[span.text-bold  Estado de la acción:] acción implementada, aún por implementar.
+                i.fa.fa-circle
+                p.mb-0 #[b Estado de la acción:] acción implementada, aún por implementar.
               li 
-              i.lista-ul__vineta
-              | #[span.text-bold  Fecha de implementación de la acción:] una vez la acción se haya planificado y su estado sea aún por implementar.
+                i.fa.fa-circle
+                p.mb-0 #[b Fecha de implementación de la acción:] una vez la acción se haya planificado y su estado sea aún por implementar.
               li 
-              i.lista-ul__vineta
-              | #[span.text-bold  Notas:] espacio para detallar observaciones sobre la implementación.
+                i.fa.fa-circle
+                p.mb-0 #[b Notas:] espacio para detallar observaciones sobre la implementación.
 
     .row.align-items-end.bg3.h4.p-3 Técnicas de análisis de causas
     p.mt-5.mb-5 Son procedimientos útiles para identificar los aspectos de los problemas y cómo poder responder a ellos. Se basa en la idea de que la gestión eficaz debe encontrar una manera de prevenir los problemas antes que ocurran y afecten el trabajo de la organización.  

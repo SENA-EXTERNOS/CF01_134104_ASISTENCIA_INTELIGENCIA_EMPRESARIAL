@@ -81,7 +81,7 @@
 
     .col-md-12
       TabsA.color-acento-botones.mt-5.mb-5
-        .tarjeta.color-borde-slider.color-slider.bg5.p-4(titulo="Fuente de datos")
+        .tarjeta.color-borde-slider.color-slider.bg5.p-4(titulo="Fuentes de datos")
           .row.justify-content-center
             .col-md-7
               p Los datos son la fuente principal de abastecimiento del #[i Business Intelligence] y en ellos se ubica gran cantidad de información necesaria para poder tener una buena inteligencia de negocios.
@@ -220,7 +220,7 @@
             p Estas nuevas condiciones han generado un naciente universo digital de interacciones, que ofrece nuevas posibilidades a las que las organizaciones no son ajenas, puesto que, conociendo las herramientas adecuadas, les puede significar hacerse acreedoras de importantes ventajas comerciales y competitivas.
       
 
-    p.mt-5.mb-5 A continuación, se conocerán algunos elementos claves del #[i e-commerce:]
+    p.mt-5.mb-5 A continuación, se conocerán algunos elementos claves del #[i E-commerce:]
 
     .row.justify-content-center
       .col-lg-4
@@ -234,11 +234,11 @@
           div(titulo="<i>E-commerce</i> como estrategia de mercado")
             p El #[i E-commerce] es la estrategia de mercado más utilizada en la economía digital; esta es también conocida como la economía del Internet, comercio electrónico que opera soportado en las tecnologías de la información y la comunicación, las cuales están inmersas en los procesos de comercialización y en algunos casos productivos.
 
-          div(titulo="Oferta del <i>e-commerce</i>")
-            p #[i E-commerce] oferta desde contenidos hasta bienes, los cuales requieren sellarse mediante medios de pagos electrónicos, pero dada la naturaleza cambiante del ambiente digital, los negocios deben actualizar sus estrategias de mercado con el fin de tener mayor cobertura y atender diferentes necesidades relacionadas con las fuentes de ingresos, las formas de pago, los canales que facilitan la interacción entre cliente y vendedor; todo esto lleva al desarrollo de diferentes modelos de #[i e-commerce.]
+          div(titulo="Oferta del <i>E-commerce</i>")
+            p #[i E-commerce] oferta desde contenidos hasta bienes, los cuales requieren sellarse mediante medios de pagos electrónicos, pero dada la naturaleza cambiante del ambiente digital, los negocios deben actualizar sus estrategias de mercado con el fin de tener mayor cobertura y atender diferentes necesidades relacionadas con las fuentes de ingresos, las formas de pago, los canales que facilitan la interacción entre cliente y vendedor; todo esto lleva al desarrollo de diferentes modelos de #[i E-commerce.]
 
     p.mt-5.mb-5 Dadas las condiciones en que se materializa el comercio electrónico, son muchos los beneficios que se pueden obtener de este ambiente de negocios, tanto para las empresas como para los usuarios.
-    p.mb-5 Los modelos de #[i e-commerce] que se destacan son: 
+    p.mb-5 Los modelos de #[i E-commerce] que se destacan son: 
 
     .row.justify-content-center.bg2.mg-img.mt-5.mg-img-final
       .row.justify-content-center.mb-5

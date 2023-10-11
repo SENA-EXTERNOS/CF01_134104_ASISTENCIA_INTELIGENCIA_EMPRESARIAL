@@ -22,7 +22,7 @@
         .row.justify-content-left
           .col-sm-7.mb-3
             p.mt-5 El diagnóstico organizacional se puede dividir en tipos: funcional y cultural. Cada uno aborda sus propios objetivos, métodos y técnicas, pero aún así se complementan. 
-            p.mt-5.mb-5 A continuación, lo invitamos a descargar el documento #[span.text-bold “Métodos y técnicas para el diagnóstico organizacional”] , el cual presenta cómo los métodos y técnicas coadyuvan a realizar un excelente análisis del entorno y de las variables, con el fin de dar respuesta a las inquietudes y los objetivos que dan origen a su aplicación.
+            p.mt-5.mb-5 A continuación, lo invitamos a descargar el documento #[span.text-bold “Métodos y técnicas para el diagnóstico organizacional”], el cual presenta cómo los métodos y técnicas coadyuvan a realizar un excelente análisis del entorno y de las variables, con el fin de dar respuesta a las inquietudes y los objetivos que dan origen a su aplicación.
           .col-sm-5.mb-3.mt-5.m-top-img
             figure
               img(src="@/assets/curso/temas/tema3/img2.png", alt="alt")
@@ -48,8 +48,8 @@
             .col-auto.mt-2
                 img(src="@/assets/curso/temas/tema3/img3.png")
             .col-md-7
-                h4.mt-3.text-white Procedimiento para elaborar un diagnóstico organizacional
-                p.text-small.text-white A continuación, lo invitamos a descargar el documento “Procedimiento para elaborar un diagnóstico organizacional” para profundizar sobre este tema.
+                h4.mt-3.text-white Procedimiento para realizar un diagnóstico organizacional
+                p.text-small.text-white A continuación, lo invitamos a descargar el documento “Procedimiento para realizar un diagnóstico organizacional” para profundizar sobre este tema.
             .col-lg-1.mt-4
                 a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo2.pdf')" target="_blank")
                   span Descargar
@@ -66,7 +66,7 @@
             .row(titulo="Matriz DOFA ")
               p El análisis DOFA está diseñado para ayudar al estratega a encontrar el mejor acoplamiento entre las tendencias del medio, las oportunidades y amenazas y las capacidades internas, fortalezas y debilidades de la empresa. Dicho análisis permitirá, a la organización, formular estrategias para aprovechar sus fortalezas, prevenir el efecto de sus debilidades, utilizar a tiempo sus oportunidades y anticiparse al efecto de las amenazas.
 
-            div(titulo="Matriz de Perfil Competitivo – PCI")
+            div(titulo="Perfil de Capacidad Interna")
               p El Perfil de Capacidad Interna, es una forma para hacer un diagnóstico a las empresas, permitiendo evaluar las fortalezas y las debilidades y donde se puede evidenciar cuáles fueron los factores internos que afectan o benefician su normal funcionamiento. Su implementación consiste en determinar las áreas estratégicas y los factores críticos de ellas, a evaluar, con el fin de aplicar la matriz y realizar un análisis por área para luego consolidarlo por organización. (Pedraza, Sastoque, Serrano & Tarazona, 2016)
 
             div(titulo="Matriz de Evaluación de los Factores Internos – EFI ")
@@ -74,16 +74,16 @@
               p Asimismo, es importante aclarar que se asigna una calificación entre 1 y 2 a cada una de las debilidades y entre 3 y 4 a las fortalezas, con el fin de indicar el factor que este representa, así:
               ol.lista-ol
                 li 
-                  span.text-bold 1: 
+                  span.text-bold 1. 
                   | Debilidad mayor.   
                 li 
-                  span.text-bold 2: 
+                  span.text-bold 2. 
                   | Debilidad menor.  
                 li 
-                  span.text-bold 3: 
+                  span.text-bold 3. 
                   | Fortaleza menor.  
                 li 
-                  span.text-bold 4: 
+                  span.text-bold 4. 
                   | Fortaleza mayor.
             div(titulo="Matriz de Evaluación de los Factores Externos – EFE")
               p Este instrumento tiene como fin develar la posición estratégica que tiene la organización en el ámbito al que pertenece. En ella se resumen y evalúan las oportunidades y amenazas de la empresa; se implementa, elaborando una lista de oportunidades y amenazas del medio, se evalúa la importancia relativa de cada una para el desempeño de la unidad empresarial, y se asigna un rango; considerando que las oportunidades suelen tener pesos más elevados que el de las amenazas, se asigna a criterio propio, una calificación de 1 a 4 a cada uno de los factores concluyentes del éxito, con el fin de subrayar si las estrategias actuales responden, con pertinencia, al factor crítico que corresponde y que está haciendo la misma para enfrentarlo.

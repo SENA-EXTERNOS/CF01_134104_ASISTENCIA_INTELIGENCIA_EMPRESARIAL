@@ -218,7 +218,7 @@ export default {
     {
       termino: 'Matrices diagnósticas',
       significado:
-        'estructuras de datos cuyo objetivo es obtener información acerca de una empresa en si misma, relacionada con los procesos, estructura, manejo de información y todo lo relacionado con la gestión organizacional.',
+        'estructuras de datos cuyo objetivo es obtener información acerca de una empresa en sí misma, relacionada con los procesos, estructura, manejo de información y todo lo relacionado con la gestión organizacional.',
     },
     {
       termino: 'Poder',
